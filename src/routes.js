@@ -13,7 +13,7 @@ const routes = [
  },
  {
    method: 'GET',
-   path: '/notes',
+   path: '/notes/',
    handler: getAllNotesHandler,
  },
  {
